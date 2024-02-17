@@ -1,5 +1,5 @@
-const byteSize = (str) => {
-  // write your code here
+const byteSize = (str)  => {
+return  str.length;
 };
 
 // Do not change the code below
